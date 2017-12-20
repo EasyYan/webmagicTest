@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="First_WebMagic" target="1.5" />
+      <module name="First_WebMagic" target="1.7" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
